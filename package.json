@@ -1,0 +1,13 @@
+{
+  "name": "esm-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^10.1.1"
+  }
+}
