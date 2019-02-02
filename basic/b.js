@@ -1,5 +1,4 @@
 console.log('module_b');
-
-export function sayHello() {
+export const sayHello = () => {
   console.log('hello~!');
-}
+};
